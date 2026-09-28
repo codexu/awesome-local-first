@@ -47,6 +47,7 @@ What is local first?
 ### Productivity
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - Local-first workspace for documents, whiteboards, and knowledge management.
+- [File Converter](https://fileontap.com/) - Free browser-local image and PDF converter; files stay on the device and no account is required.
 
 ### Social Networks
 
